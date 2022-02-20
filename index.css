@@ -1,0 +1,20 @@
+body {
+    background-color: cornflowerblue;
+}
+h1 {
+    color: lightyellow
+}
+h2 {
+    color: navy;
+}
+img {
+    border-style: groove;
+    border-width: 20px;
+}
+body {
+    border-style: dashed;
+    border-color: yellow;
+}
+p1 {
+    color: whitesmoke;
+}
